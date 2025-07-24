@@ -31,7 +31,7 @@ The project followed the standard data analysis process:
 5.  **Share:** Communicate findings effectively through reports and visualizations.
 6.  **Act:** Develop data-driven recommendations.
 
-For detailed documentation of the full analytical process, data sources, cleaning steps, and tools used, please refer to the [**Metadata Report**](link-to-your-metadata-report-file.md) and the [**Jupyter Notebook**](link-to-your-jupyter-notebook-file.ipynb) in this repository.
+For detailed documentation of the full analytical process, data sources, cleaning steps, and tools used, please refer to the [**Metadata Report**](https://github.com/ErenArslnn/cyclistic-capstone-project/blob/main/reports/Metadata_Report.docx) and the [**Jupyter Notebook**](https://github.com/ErenArslnn/cyclistic-capstone-project/blob/main/python_scripts/capstone_cleaning.ipynb) in this repository.
 
 ## 💾 Data Sources
 
@@ -49,7 +49,7 @@ The analysis revealed significant distinctions in how annual members and casual 
 * **Location Preferences:** Member stations are concentrated in business districts and commuter hubs. Casual rider stations are heavily skewed towards tourist attractions and recreational areas (e.g., Navy Pier).
 * **Distance Traveled:** Average distances are surprisingly similar, suggesting casuals ride at a more leisurely pace or make more stops for similar distances.
 
-For a detailed breakdown of the analysis and supporting visualizations, please refer to the [**Final Stakeholder Report**](link-to-your-stakeholder-report-file.md) and the associated [**Power BI Dashboard**](link-to-your-pbix-file.pbix).
+For a detailed breakdown of the analysis and supporting visualizations, please refer to the [**Final Stakeholder Report**](https://github.com/ErenArslnn/cyclistic-capstone-project/blob/main/reports/Cyclistic_Bike_Share_Stakeholders_Report.docx) and the associated [**Power BI Dashboard**](https://github.com/ErenArslnn/cyclistic-capstone-project/blob/main/power_bi_dashboards/CyclisticBikeShare.pbix).
 
 ## 💡 Recommendations
 
