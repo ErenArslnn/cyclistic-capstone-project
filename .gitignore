@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Raw and Cleaned Data (too large for Git)
+Project_Rawdata/
+cleaned_data/
+*.csv
+*.parquet
+
+# Local database files (if you had any other than SQL Server)
+*.db
+*.sqlite
+
+# Environment variables (if you used a .env file for credentials)
+.env
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
